@@ -17,7 +17,7 @@ step5. open postman
 step6. test api 'http://127.0.0.1:8000/api/data-stream/analyze' in localhost server. with POST request
 <br>
 
-payload:
+payload (form-data):
 <br>
 stream:AAABBBCCCAAABBBCCCAAABBBCCCAAABBBCCCAAABBBCCCAAABBBCCC
 k:3
