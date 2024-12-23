@@ -6,6 +6,8 @@
 
 step1. Run git clone https://github.com/mahendramourya/Data-Stream-Processor-API.git
 <br>
+step2. git checkout mahendra
+<br>
 step2. configure database using .env.example file.
 <br>
 step3. Run project with php artisan serve command
