@@ -8,13 +8,13 @@ step1. Run git clone https://github.com/mahendramourya/Data-Stream-Processor-API
 <br>
 step2. git checkout mahendra
 <br>
-step2. configure database using .env.example file.
+step3. configure database using .env.example file.
 <br>
-step3. Run project with php artisan serve command
+step4. Run project with php artisan serve command
 <br>
-step4. open postman
+step5. open postman
 <br>
-step5. test api 'http://127.0.0.1:8000/api/data-stream/analyze' in localhost server. with POST request
+step6. test api 'http://127.0.0.1:8000/api/data-stream/analyze' in localhost server. with POST request
 <br>
 
 payload:
