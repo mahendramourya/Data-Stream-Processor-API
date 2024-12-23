@@ -1,6 +1,6 @@
 ## Project: Data-Stream-Processor-API
 
-### Auther: Mahendra Kumar Mourya
+### Author: Mahendra Kumar Mourya
 
 ## Project Setup Steps:
 
